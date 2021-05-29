@@ -1,35 +1,22 @@
 ## Bem vindo 
 
-Renovar Surpresas
-Produtos/Serviços
-💖 Agrade quem você ama,
-🤗Faça um surpresa
-😍Cestas box e caixas personalizadas
-👇Entre em contato!!
+<p>Renovar Surpresas</p>
+<li>Produtos/Serviços</li>
+<li>💖 Agrade quem você ama,</li>
+<li>🤗Faça um surpresa</li>
+<li>😍Cestas box e caixas personalizadas</li>
+<li>👇Entre em contato!!</li>
 
-### Sobre nos 
+### Missão
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Vender cestas consumizadas, buscando inovação no mercado proporcionando conforto para seus clientes.
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Valores
+Ser uma referência em cestas de café da manhã mantendo assim um vínculo com qualidade de vida e de pessoas.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Nosso Instagram[Link](https://www.instagram.com/renovar.surpresas/).
 
 ### Jekyll Themes
 
