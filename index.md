@@ -1,24 +1,24 @@
-## Renovar Surpresas LTDA 
+## Renovar Surpresas
 
-<p>Bem vindo </p>
+## Bem vindo 
 <li>Produtos/Serviços</li>
 <li>💖 Agrade quem você ama,</li>
 <li>🤗Faça um surpresa</li>
 <li>😍Cestas box e caixas personalizadas</li>
 <li>👇Entre em contato!!</li>
 
-### Missão
+## Missão
 
 Vender cestas consumizadas, buscando inovação no mercado proporcionando conforto para seus clientes.
 
 
-### Visão
+## Visão
 Ser uma referência em cestas de café da manhã mantendo assim um vínculo com qualidade de vida e de pessoas.
 
 
 Nosso Instagram[Link](https://www.instagram.com/renovar.surpresas/).
 
-### Valores
+## Valores
 
 Confiança; Respeito; Crença; Humildade; Integridade.
 
