@@ -9,10 +9,10 @@
 
 ### Contato
 
-Vera Lucia
-Fone(67) 99225-9547
-Email:verarenovar@yahoo.com.br
-Email:cestasrenova@gmail.com
+<p>Vera Lucia</p>
+<li>Fone(67) 99225-9547</li>
+<li>Email:verarenovar@yahoo.com.br</li>
+<li>Email:cestasrenova@gmail.com</li>
 
 ### Missão
 
