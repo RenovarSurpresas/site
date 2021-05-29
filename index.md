@@ -12,16 +12,17 @@
 Vender cestas consumizadas, buscando inovação no mercado proporcionando conforto para seus clientes.
 
 
-Valores
+### Visão
 Ser uma referência em cestas de café da manhã mantendo assim um vínculo com qualidade de vida e de pessoas.
 
 
 Nosso Instagram[Link](https://www.instagram.com/renovar.surpresas/).
 
-### Jekyll Themes
+### Valores
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RenovarSurpresas/site/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Confiança; Respeito; Crença; Humildade; Integridade.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Suporte Paginas
+
+Desenvolvedor: Ronaldo Martins da Silva [linkdin](https://www.linkedin.com/in/ronaldo-martins-da-silva-a07131122/ or [contato support](https://www.linkedin.com/in/ronaldo-martins-da-silva-a07131122/) 
