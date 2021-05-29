@@ -25,4 +25,4 @@ Confiança; Respeito; Crença; Humildade; Integridade.
 
 ### Suporte Paginas
 
-Desenvolvedor: Ronaldo Martins da Silva [linkdin](https://www.linkedin.com/in/ronaldo-martins-da-silva-a07131122/ or [contato support](https://www.linkedin.com/in/ronaldo-martins-da-silva-a07131122/) 
+Desenvolvedor: Ronaldo Martins da Silva [contato support](https://www.linkedin.com/in/ronaldo-martins-da-silva-a07131122/) 
